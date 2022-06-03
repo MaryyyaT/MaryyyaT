@@ -1,4 +1,5 @@
 ### Hi 👋 there 👋 - 🌱 I’m currently learning Front-End
+and.... I'm currently creating site for my Lovely ART ..... LOADING <img width=50 src="https://i.stack.imgur.com/hzk6C.gif">
 - 📫 How to reach me: <a href="https://telegram.me/MaryyyaT">TELEGRAM</a>
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/01e17c09-83ca-4a5c-a044-a32f9283bdb2/db6q39g-e0f56a67-6629-4e17-8b56-656aa8e7d4a0.png">
 
